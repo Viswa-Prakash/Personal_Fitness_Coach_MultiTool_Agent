@@ -37,7 +37,7 @@ A conversational AI agent (built with [LangGraph](https://github.com/langchain-a
 2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
-   ```
+
 3. **Set up API keys:**
    ```bash
     - OpenAI API Key
